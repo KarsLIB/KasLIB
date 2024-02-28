@@ -1,0 +1,2 @@
+# KasRec
+ A faceRecognition program
